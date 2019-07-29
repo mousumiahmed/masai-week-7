@@ -1,0 +1,40 @@
+.bgmain{
+    background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+}
+.bghome1{
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+.hrstyle{
+    background-color: red; 
+    height: 2px; 
+    width: 700px;
+    margin-top: -30px;
+}
+.margin{
+    margin-left: 220px;
+}
+.cardcolor{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+.mapstyle{
+    height: 300px;
+    width: 450px;
+}
+.gridmargin{
+    margin-left: 100px;
+}
+.marginright{
+    margin-right: 200px;
+}
+.gridmargincourse{
+    margin-left: 200px;
+
+}
+.courseheader{
+    margin-left: 200px;
+   
+}
+.marginfooter{
+    margin-left: 250px;
+
+}
