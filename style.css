@@ -1,0 +1,211 @@
+.bgimg{
+    background-image: url('images/bg2.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+}
+.headerstyle{
+    padding-top: 50px;
+    box-sizing: border-box;
+    margin-right: 250px;
+}
+.floatimg{
+    margin-top: -10px !important;
+    margin-right: -170px;
+    height: 150px;
+    width: 300px;
+}
+.card:hover{
+    -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0,0.75)
+    
+
+}
+.margin{
+    margin-left: 130px;
+}
+.imagestyle{    
+    height: 250px;
+    width: 250px;
+    border-radius: 50% !important;
+    margin-top: -20px;
+    margin-bottom: -30px;
+    
+    
+}
+.mentorhover:hover{
+    background-color: rgb(79, 182, 173);
+}
+.slidestyle{
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    margin-left: 230px;
+    margin-top: 50px;
+
+}
+.footerstyle{
+    height: 100px;
+    margin-right: -10px;
+    
+}
+.grid{
+    background-color: rgb(105, 84, 84);
+    margin-top: 50px; 
+    height: 100px;
+  
+}
+.mapestyle{
+    width: 1300px;
+    height: 350px;
+    
+}
+
+
+@media (max-width: 1024px) {
+    .bgimg{
+        background-image: url('images/bg2.jpeg');
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        width: 100%;
+        height: 700px;
+    }
+    .headerstyle{
+        padding-top: 50px;
+        box-sizing: border-box;
+        margin-right: 250px;
+    }
+    .floatimg{
+        margin-top: -10px !important;
+        margin-right: -170px;
+        height: 150px;
+        width: 300px;
+    }
+    .card:hover{
+        -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+        box-shadow: -1px 9px 40px -12px rgba(0, 0, 0,0.75)
+        
+    
+    }
+    .margin{
+        margin-left: 50px;
+    }
+    .imagestyle{    
+        height: 200px;
+        width: 200px;
+        border-radius: 50% !important;
+        margin-top: -20px;
+        margin-bottom: -30px;
+        margin-left: 0px;
+        
+        
+    }
+    .mentorhover:hover{
+        background-color: rgb(79, 182, 173);
+    }
+    .slidestyle{
+        height: 500px;
+        width: 400px;
+        text-align: center;
+        margin-left: 10px;
+        margin-top: 50px;
+    
+    }
+    .footerstyle{
+        height: 100px;
+        margin-right: -10px;
+        
+    }
+    .grid{
+        background-color: rgb(105, 84, 84);
+        margin-top: 50px; 
+        height: 100px;
+      
+    }
+    .mapestyle{
+        width: 1300px;
+        height: 350px;
+        
+    }
+    
+ }
+ @media (max-width: 500px) {
+    .bgimg{
+        background-image: url('images/bg2.jpeg');
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        width: 100%;
+        height: 700px;
+    }
+    .headerstyle{
+        padding-top: 50px;
+        box-sizing: border-box;
+        margin-right: 250px;
+    }
+    .floatimg{
+        margin-top: -10px !important;
+        margin-right: -170px;
+        height: 150px;
+        width: 300px;
+    }
+    .card:hover{
+        -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+        box-shadow: -1px 9px 40px -12px rgba(0, 0, 0,0.75)
+        
+    
+    }
+    .margin{
+        margin-left: 50px;
+    }
+    .imagestyle{    
+        height: 200px;
+        width: 200px;
+        border-radius: 50% !important;
+        margin-top: -20px;
+        margin-bottom: -30px;
+        margin-left: 0px;
+        
+        
+    }
+    .mentorhover:hover{
+        background-color: rgb(79, 182, 173);
+    }
+    .slidestyle{
+        height: 500px;
+        width: 400px;
+        text-align: center;
+        margin-left: 10px;
+        margin-top: 50px;
+    
+    }
+    .footerstyle{
+        height: 100px;
+        margin-right: -10px;
+        
+    }
+    .grid{
+        background-color: rgb(105, 84, 84);
+        margin-top: 50px; 
+        height: 100px;
+      
+    }
+    .mapestyle{
+        width: 1300px;
+        height: 350px;
+        
+    }
+    
+ }
+
+
+ 
+
+
+
+
+
+
